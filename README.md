@@ -16,7 +16,7 @@ Welcome to **30 Days of JavaScript**, a focused, hands-on journey where I solve 
 | Day | Topic         | Problem                                      | Difficulty | Status   | Link                                  |
 |-----|---------------|----------------------------------------------|------------|----------|---------------------------------------|
 | 1   | Functions     | Create Hello World Function                  | Easy       | ✅ Done  | [Link](./Day-1/problem_2667.js) |
-| 2   | Closures      | Counter                                      | Easy       | ⏳ Todo  | [Link](./Day02_Counter/README.md)     |
+| 2   | Closures      | Counter                                      | Easy       | ⏳ Todo  | [Link](./Day-2)     |
 | 3   | Closures      | To Be Or Not To Be                           | Easy       | ⏳ Todo  | [Link](./Day03_ToBeOrNotToBe/README.md) |
 | 4   | Closures      | Counter II                                   | Easy       | ⏳ Todo  | [Link](./Day04_CounterII/README.md)   |
 | 5   | Arrays        | Basic Array Transformations                  | Easy       | ⏳ Todo  | [Link](./Day05_BasicArrayTransform/README.md) |
